@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me GoldenShep.github@outlook.com
+- 📫 How to reach me GoldenShep.github@hotmail.com
 
 <!---
 GoldenShep/GoldenShep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
